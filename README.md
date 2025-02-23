@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SeeChizu
+- 👋 Hi, I’m @Yustian
 - 👀 I’m interested in music
 - 🌱 I’m currently learning HTML, CSS and JS
 - 💞️ I’m looking to collaborate on ...
